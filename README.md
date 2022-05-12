@@ -12,3 +12,6 @@ Fetching Data using iTunes API
 - Parsing JSON asynchronously
 - use XML parsing Pods through Cocoapods integration
 - User Favorites persistence with UserDefaults
+
+
+https://user-images.githubusercontent.com/75914704/168181640-918c7d16-45af-4155-a4e6-9bd1390b73d5.mp4
