@@ -14,4 +14,4 @@ Fetching Data using iTunes API
 - User Favorites persistence with UserDefaults
 
 
-https://user-images.githubusercontent.com/75914704/168181640-918c7d16-45af-4155-a4e6-9bd1390b73d5.mp4
+https://user-images.githubusercontent.com/75914704/168184445-22b881f4-d9b4-4f47-8477-844df5759ef9.mp4
